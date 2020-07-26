@@ -1,8 +1,6 @@
 ### Welcome to My Github Repo 😊👽👽 👋
 
-<!--
-**Mr-browny/Mr-browny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... My portfolio
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Portfolio](http://my-portfolio-29d3f.web.app/)
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Am the Last Born, and I sleep in the Day Time 😜 | Work At Night 😎😎
--->
+
