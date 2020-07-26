@@ -10,5 +10,4 @@
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Am the Last Born, and I sleep in the Day Time 😜 | Work At Night 😎😎
 
-![gif from nerdy.dev](https://awesomelytechie.com/wp-content/uploads/2014/07/Typing.gif)
-<img align="center" src="https://awesomelytechie.com/wp-content/uploads/2014/07/Typing.gif" alt="...">
+<img align="center" src="https://awesomelytechie.com/wp-content/uploads/2014/07/Typing.gif" alt="..." width="100%">
