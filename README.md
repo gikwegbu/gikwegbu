@@ -1,8 +1,6 @@
 ### Welcome to My Github Repo 😊👽👽 👋
 
- 
-Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on ... My portfolio
 - 🌱 I’m currently learning ... Nodejs | Threejs | Flutter
 - 👯 I’m looking to collaborate on ... Vue OpenSource Projects
