@@ -8,6 +8,7 @@
 - 💬 Ask me about ... Anything, I am an Open Book
 - 📫 How to reach me: ... [Portfolio](http://my-portfolio-29d3f.web.app/)
 - 😄 Pronouns: ... He
+- 👽 I Blog on ... [Dev.to](https://dev.to/mrbrowny)
 - ⚡ Fun fact: ... Am the Last Born, and I sleep in the Day Time 😜 | Work At Night 😎😎
 
 <img align="center" src="https://awesomelytechie.com/wp-content/uploads/2014/07/Typing.gif" alt="..." width="100%">
