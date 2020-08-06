@@ -13,4 +13,4 @@
 
 <img align="center" src="https://awesomelytechie.com/wp-content/uploads/2014/07/Typing.gif" alt="..." width="100%"> 
 
-// ![Mr.Browny's github stats](https://github-readme-stats.vercel.app/api?username=mr-browny&show_icons=true&hide_border=true)
+ ![Mr.Browny's github stats](https://github-readme-stats.vercel.app/api?username=mr-browny&show_icons=true&hide_border=true)
