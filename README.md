@@ -1,13 +1,13 @@
 ### Welcome to My Github Repo 😊👽👽 👋
 
   
-- 🔭 I’m currently working on ... My portfolio
-- 🌱 I’m currently learning ... Nodejs | Threejs | Flutter
-- 👯 I’m looking to collaborate on ... Vue OpenSource Projects
-- 🤔 I’m looking for help with ... Flutter
+- 🔭 I’m currently working on ... Flutter projects.
+- 🌱 Nodejs | Vue | Flutter
+- 👯 I’m looking to collaborate on ... Vue & Flutter OpenSource Projects
+- 🤔 I’m looking for help with ... infoSec
 - 💬 Ask me about ... Anything, I am an Open Book
 - 📫 How to reach me: ... [Portfolio](http://my-portfolio-29d3f.web.app/)
-- 😄 Pronouns: ... He
+- 😄 Pronouns: ... He/Him
 - 👽 I Blog on ... [Dev.to](https://dev.to/mrbrowny)
 - ⚡ Fun fact: ... Am the Last Born, and I sleep in the Day Time 😜 | Work At Night 😎😎
 
