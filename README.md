@@ -1,8 +1,8 @@
 ### Welcome to My Github Repo 😊👽👽 👋
 
   
-- 🔭 I’m currently working on ... Flutter | React | Frontend Blockchain projects.
-- 🌱 Nodejs | Vue | React | TypeScript | Flutter | Solidity
+- 🔭 I’m currently working on ... Flutter | React | Vue | Frontend Blockchain projects.
+- 🌱 Nodejs | Vue | React | TypeScript | Flutter | Cordova/Apache | Firebase | Solidity
 - 👯 I’m looking to collaborate on ... Vue, React, Flutter, Blockchain OpenSource Projects
 - 🤔 I’m looking for help with ... infoSec | CyberSecurity
 - 💬 Ask me about ... Anything, I am an Open Book
