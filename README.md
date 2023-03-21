@@ -15,7 +15,7 @@
 <!-- <img align="center" src="https://awesomelytechie.com/wp-content/uploads/2014/07/Typing.gif" alt="..." width="100%">  -->
 
 
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQwOGUyOGZmMzViYmUwYWVkYjZkODc2ZjFhZjg4YzE4OTgzMjVhYyZjdD1n/ES9cAJlcxblRESzOH1/giphy.gif" alt="..." width="100%"> 
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2E5ZWY2ZGRiNjk2MGM4ZWZiNmJjNzY3NTc0M2RlMTYxMzZjOTNiNSZjdD1n/hrSFdM4rg8VFpXyz2m/giphy.gif" alt="..." width="100%"> 
 
 
 
