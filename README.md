@@ -1,7 +1,7 @@
 ### Welcome to My Github Repo 😊👽👽 👋
 
   
-- 🔭 Currently horning my skills on Flutter | SwiftUi.
+- 🔭 Currently honing my skills on Flutter | SwiftUi.
 - 🌱 Nodejs | Vue | React | TypeScript | Flutter | SwiftUI | Cordova/Apache | Firebase | Solidity
 - 👯 I’m looking to collaborate on ... Flutter, SwiftUI, projects
 - 🤔 I’m looking for help with ... infoSec | CyberSecurity
