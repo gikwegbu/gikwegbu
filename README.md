@@ -1,7 +1,7 @@
 ### Welcome to My Github Repo 😊👽👽 👋
 
   
-- 🔭 Progressively advancing my Flutter & SwiftUi skills.
+- 🔭 Progressively advancing my Flutter, SwiftUi, Kotlin, Nestjs, Python, ML & AI skills.
 - 🌱 Nodejs | Nestjs | Vuejs | Reactjs | TypeScript | Flutter | SwiftUI | Cordova/Apache | Firebase | Solidity
 - 👯 I’m looking to collaborate on ... Flutter, SwiftUI, Nest, Machine Learning and AI projects
 - 🤔 I’m looking for help with ... AI
