@@ -1,11 +1,11 @@
 ### Welcome to My Github Repo 😊👽👽 👋
 
   
-- 🔭 I'm Currently honing my skills on Flutter | SwiftUi.
-- 🌱 Nodejs | Vuejs | Reactjs | TypeScript | Flutter | SwiftUI | Cordova/Apache | Firebase | Solidity
-- 👯 I’m looking to collaborate on ... Flutter, SwiftUI, projects
-- 🤔 I’m looking for help with ... infoSec | CyberSecurity
-- 👨🏾‍💻 GDG-Umuahia Co-Lead | Co-founder & Frontend Mentor @Alida School.
+- 🔭 Progressively advancing my Flutter & SwiftUi skills.
+- 🌱 Nodejs | Nestjs | Vuejs | Reactjs | TypeScript | Flutter | SwiftUI | Cordova/Apache | Firebase | Solidity
+- 👯 I’m looking to collaborate on ... Flutter, SwiftUI, Nest, Machine Learning and AI projects
+- 🤔 I’m looking for help with ... AI
+- 👨🏾‍💻 Formal: GDG-Umuahia Co-Lead | Co-founder & Frontend Mentor @Alida School.
 - 💬 Ask me about ... Anything, I am an Open Book
 - 📫 How to reach me: ... [Portfolio](https://gikwegbu.netlify.app/)
 - 😄 Pronouns: ... He/Him/His
