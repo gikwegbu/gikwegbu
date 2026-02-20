@@ -15,7 +15,7 @@
 
 ## 🧭 About Me
 
-I'm a **Senior Flutter Engineer** with **X+ years** of experience building high-performance, production-grade mobile applications for iOS and Android. I specialise in scalable architecture, clean code practices, and delivering polished user experiences.
+I'm a **Senior Flutter Engineer** with **5+ years** of experience building high-performance, production-grade mobile applications for iOS and Android. I specialise in scalable architecture, clean code practices, and delivering polished user experiences.
 
 My engineering journey started in web development — building with **HTML, CSS, JavaScript, and React.js** — before I went fully all-in on mobile with Flutter. That web foundation gave me a strong eye for UI composition and component design, but today **mobile is my world and Flutter is my craft**.
 
