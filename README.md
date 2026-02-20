@@ -156,7 +156,7 @@ An open-source Flutter package with **30+** likes and **135+ pub points** with *
 
 ## 📦 Open Source Contributions
 
-- 🛠️ **[flutter_paystack_plus / [Repo](https://pub.dev/packages/flutter_paystack_plus)]** — Enhanced the subscription functionalities tailored for mobile platforms (PR merged, feature added, bug fixed)
+- 🛠️ **[Flutter_paystack_plus](https://pub.dev/packages/flutter_paystack_plus)** — Enhanced the subscription functionalities tailored for mobile platforms (PR merged, feature added, bug fixed)
 
 > I believe in giving back to the community that shaped my skills. I actively contribute to Flutter packages, file detailed issues, and review PRs.
 
