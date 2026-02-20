@@ -125,7 +125,7 @@ A Flutter app showcasing **GetX state management** with a clean, responsive UI, 
 
 ## 🚀 Featured Pub.dev Packages
 
-### 🟠 [custom_widget_marquee](https://pub.dev/packages/custom_widget_marquee)
+### 🟠 [Custom_widget_marquee](https://pub.dev/packages/custom_widget_marquee)
 > *This is a simple package that gives you the power to turn any Flutter Widget into a Marquee. With this, you can further control the speed and also allows for manual swiping gestures*
 
 An open-source Flutter package with growing number of likes and **30+ pub points** with **16 downloads** on pub.dev. Solves Marquee animation flexibility with a clean, well-documented API.
@@ -133,7 +133,7 @@ An open-source Flutter package with growing number of likes and **30+ pub points
 `Dart` `pub.dev` `Open Source`
 
 
-### 🟠 [expandable_section](https://pub.dev/packages/expandable_section)
+### 🟠 [Expandable_section](https://pub.dev/packages/expandable_section)
 > *This is an expandable section widget where users gets to insert a section/widget they'd want to toggle. The toggle controller is totally provided by the user, that way there's more flexibility and no limitation on how to provide the header/toggle controller.*
 
 An open-source Flutter package with growing number of likes and **140+ pub points** with **43 downloads** on pub.dev. Solves revealing and concealing of widgets with a clean, well-documented API.
@@ -141,7 +141,7 @@ An open-source Flutter package with growing number of likes and **140+ pub point
 `Dart` `pub.dev` `Open Source`
 
 
-### 🟠 [slideable](https://pub.dev/packages/slideable)
+### 🟠 [Slideable](https://pub.dev/packages/slideable)
 > *This is a flexible slideable implementation that will allow you to pass simple widgets(icons or anything at all) as action items, and also control various backgrounds for the action item, and closes an already slide item in your list.*
 
 An open-source Flutter package with **30+** likes and **135+ pub points** with **692 downloads** on pub.dev. Solves swipping on widget to carry out actions with a clean, well-documented API.
