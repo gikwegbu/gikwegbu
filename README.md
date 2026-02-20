@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm George Ikwegbu 👋
 ### Senior Flutter Engineer · Mobile Architect · Open Source Contributor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Udemy](https://img.shields.io/badge/Udemy-Instructor-%23EC5252.svg?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/YOUR_UDEMY_PROFILE)
-[![pub.dev](https://img.shields.io/badge/pub.dev-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/YOUR_PUBLISHER/packages)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GIkwegbu)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GIkwegbu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://gikwegbu.netlify.app/)
+[![Udemy](https://img.shields.io/badge/Udemy-Instructor-%23EC5252.svg?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/front-end-development-for-beginners/)
+<!---  [![pub.dev](https://img.shields.io/badge/pub.dev-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/YOUR_PUBLISHER/packages) --->
 
 </div>
 
@@ -23,14 +23,14 @@ My engineering journey started in web development — building with **HTML, CSS,
 - 📦 I've published packages on **pub.dev** used by the Flutter community
 - 🌐 Background in web (HTML, CSS, JS, React) — now fully dedicated to mobile
 - 🔍 Deeply invested in code quality, CI/CD pipelines, and scalable team workflows
-- 🌍 Currently based in **[Your City, Country]** · Open to remote opportunities
+- 🌍 Currently based in **[London, UK]** · Open to remote opportunities
 
 ---
 
 ## 🗺️ My Journey
 
 ```
-🌐 Started in Web       →  HTML, CSS, JavaScript, React.js — building UIs from scratch
+🌐 Started in Web       →  HTML, CSS, JavaScript, Vue.js, React.js — building UIs from scratch
 📱 Discovered Flutter   →  Fell in love with cross-platform, one codebase, polished UX
 🏗️ Went Deep on Mobile  →  Clean Architecture, state management, CI/CD, pub.dev packages
 🎓 Became a Teacher     →  Udemy web courses; Flutter & Dart courses coming soon
@@ -79,6 +79,7 @@ My engineering journey started in web development — building with **HTML, CSS,
 
 ```
 📐 Clean Architecture   →  Separation of concerns across data, domain & presentation
+🚀 MVVM                 →  Model view view-model
 🧩 Feature-First        →  Scalable folder structure for large teams
 🔁 TDD                  →  Test-driven development for critical business logic
 ⚡ Performance-First    →  Frame budgets, lazy loading, efficient rebuilds
@@ -118,10 +119,28 @@ A Flutter app showcasing **GetX state management** with a clean, responsive UI, 
 
 ---
 
-### 🟠 [pub.dev Package Name](https://pub.dev/packages/YOUR_PACKAGE)
-> *Brief one-liner describing the package*
+## 🚀 Featured Pub.dev Packages
 
-An open-source Flutter package with **X+ likes** and **X+ pub points** on pub.dev. Solves [specific problem] with a clean, well-documented API.
+### 🟠 [custom_widget_marquee](https://pub.dev/packages/custom_widget_marquee)
+> *This is a simple package that gives you the power to turn any Flutter Widget into a Marquee. With this, you can further control the speed and also allows for manual swiping gestures*
+
+An open-source Flutter package with growing number of likes and **30+ pub points** with **16 downloads** on pub.dev. Solves Marquee animation flexibility with a clean, well-documented API.
+
+`Dart` `pub.dev` `Open Source`
+
+
+### 🟠 [expandable_section](https://pub.dev/packages/expandable_section)
+> *This is an expandable section widget where users gets to insert a section/widget they'd want to toggle. The toggle controller is totally provided by the user, that way there's more flexibility and no limitation on how to provide the header/toggle controller.*
+
+An open-source Flutter package with growing number of likes and **140+ pub points** with **43 downloads** on pub.dev. Solves revealing and concealing of widgets with a clean, well-documented API.
+
+`Dart` `pub.dev` `Open Source`
+
+
+### 🟠 [slideable](https://pub.dev/packages/slideable)
+> *This is a flexible slideable implementation that will allow you to pass simple widgets(icons or anything at all) as action items, and also control various backgrounds for the action item, and closes an already slide item in your list.*
+
+An open-source Flutter package with **30+** likes and **135+ pub points** with **692 downloads** on pub.dev. Solves swipping on widget to carry out actions with a clean, well-documented API.
 
 `Dart` `pub.dev` `Open Source`
 
@@ -133,9 +152,7 @@ An open-source Flutter package with **X+ likes** and **X+ pub points** on pub.de
 
 ## 📦 Open Source Contributions
 
-- 🛠️ **[Package / Repo]** — Description of contribution (PR merged, feature added, bug fixed)
-- 🛠️ **[Package / Repo]** — Description of contribution
-- 🛠️ **[Package / Repo]** — Description of contribution
+- 🛠️ **[flutter_paystack_plus / [Repo](https://pub.dev/packages/flutter_paystack_plus)]** — Enhanced the subscription functionalities tailored for mobile platforms (PR merged, feature added, bug fixed)
 
 > I believe in giving back to the community that shaped my skills. I actively contribute to Flutter packages, file detailed issues, and review PRs.
 
@@ -151,21 +168,6 @@ I've created web development courses on Udemy covering the core foundations of f
 
 > 📱 **Flutter & Dart courses are coming soon** — follow me on Udemy to get notified when they drop!
 
----
-
-## 💼 Professional Experience Highlights
-
-| Role | Company | Duration |
-|---|---|---|
-| Senior Flutter Engineer | [Company Name] | 20XX – Present |
-| Flutter Developer | [Company Name] | 20XX – 20XX |
-| Web Developer | [Company Name] | 20XX – 20XX |
-
-*Key wins:*
-- 🚀 Reduced app startup time by **X%** through lazy initialisation and deferred loading
-- 📉 Decreased crash rate from **X%** to **<0.1%** via robust error handling and monitoring
-- 📦 Led migration from **Provider → Riverpod** across a codebase with X+ screens
-- 👥 Mentored a team of X junior/mid Flutter developers
 
 ---
 
@@ -186,13 +188,14 @@ I've created web development courses on Udemy covering the core foundations of f
 
 I'm always open to discussing architecture challenges, Flutter performance deep-dives, or potential collaborations.
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- 🐦 [Twitter / X](https://twitter.com/YOUR_USERNAME)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 🎓 [Udemy Courses](https://www.udemy.com/user/YOUR_UDEMY_PROFILE)
-- 📧 [your@email.com](mailto:your@email.com)
+- 💼 [LinkedIn](https://linkedin.com/in/GIkwegbu)
+- 🐦 [Twitter / X](https://twitter.com/GIkwegbu)
+- 🌐 [Portfolio](https://gikwegbu.netlify.app)
+- 🎓 [Udemy Courses](https://www.udemy.com/course/front-end-development-for-beginners)
+- 📧 [your@email.com](mailto:g.ikwegbu@gmail.com)
 
 ---
+
 
 <div align="center">
 
