@@ -21,9 +21,9 @@ My engineering journey started in web development — building with **HTML, CSS,
 
 - 🏗️ I architect apps using **Clean Architecture**, **Feature-First**, and **Domain-Driven Design** principles
 - 📦 I've published packages on **pub.dev** used by the Flutter community
-- 🌐 Background in web (HTML, CSS, JS, React) — now fully dedicated to mobile
+- 🌐 Background in web (HTML, CSS, JS, Vue, React) — now fully dedicated to mobile
 - 🔍 Deeply invested in code quality, CI/CD pipelines, and scalable team workflows
-- 🌍 Currently based in **[London, UK]** · Open to remote opportunities
+- 🌍 Currently based in **London, UK** · Open to remote opportunities
 
 ---
 
@@ -34,7 +34,7 @@ My engineering journey started in web development — building with **HTML, CSS,
 📱 Discovered Flutter   →  Fell in love with cross-platform, one codebase, polished UX
 🏗️ Went Deep on Mobile  →  Clean Architecture, state management, CI/CD, pub.dev packages
 🎓 Became a Teacher     →  Udemy web courses; Flutter & Dart courses coming soon
-🌱 Now Expanding        →  Python, Kotlin, NestJS — the journey continues
+🌱 Now Expanding        →  Python, Kotlin, NestJS, AI, ML — the journey continues
 ```
 
 ---
