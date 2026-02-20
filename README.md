@@ -103,6 +103,16 @@ A production Flutter app built with **BLoC + Clean Architecture**, free to use f
 `Flutter` `BLoC` `Firebase` `Isar` `CI/CD` `GoRouter` `GetIt & Injectable` `Freezed && build_runner` `Flutter ScreenUtil` `FL Chart`
 
 ---
+
+### 🟣 [George Ikwegbu Mobile](https://github.com/gikwegbu/george_ikwegbu_mobile)
+> *A lightweight Flutter WebView wrapper for the personal portfolio website of George Ikwegbu.*
+
+Basic Flutter.
+
+`Flutter` `Webview` `QR Code`
+
+---
+
 <!--
 ### 🟣 [Flutter Project Name Two](https://github.com/gikwegbu/REPO_NAME)
 > *Brief one-liner: what it does and why it matters*
