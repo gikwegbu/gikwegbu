@@ -66,11 +66,14 @@ My engineering journey started in web development — building with **HTML, CSS,
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-%2300F200.svg?style=for-the-badge&logo=fastlane&logoColor=white)
 ![Codemagic](https://img.shields.io/badge/Codemagic-%23F45E3F.svg?style=for-the-badge&logo=codemagic&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🌐 Web Skills *(background)*
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ---
@@ -92,15 +95,15 @@ I believe great mobile engineering isn't just about shipping features — it's a
 
 ## 🚀 Featured Projects
 
-### 🔵 [Flutter Project Name One](https://github.com/gikwegbu/REPO_NAME)
-> *Brief one-liner: what it does and why it matters*
+### 🔵 [CareSync](https://github.com/gikwegbu/caresync)
+> *CareSync is a comprehensive, UK NHS-inspired personal health and appointment tracker application built with Flutter. It is designed to help users manage their healthcare journey with ease, offering features for tracking appointments, prescriptions, health metrics, and more, all wrapped in a modern, accessible, and polished user interface.*
 
-A production Flutter app built with **BLoC + Clean Architecture**, serving **X,000+ users** on iOS and Android. Features real-time data sync, offline-first capabilities, and a custom design system.
+A production Flutter app built with **BLoC + Clean Architecture**, free to use for people on iOS and Android. Features real-time data sync, offline-first capabilities, and a custom design system.
 
-`Flutter` `BLoC` `Firebase` `Hive` `CI/CD`
+`Flutter` `BLoC` `Firebase` `Isar` `CI/CD` `GoRouter` `GetIt & Injectable` `Freezed && build_runner` `Flutter ScreenUtil` `FL Chart`
 
 ---
-
+<!--
 ### 🟣 [Flutter Project Name Two](https://github.com/gikwegbu/REPO_NAME)
 > *Brief one-liner: what it does and why it matters*
 
@@ -118,6 +121,7 @@ A Flutter app showcasing **GetX state management** with a clean, responsive UI, 
 `Flutter` `GetX` `Firebase` `REST API`
 
 ---
+-->
 
 ## 🚀 Featured Pub.dev Packages
 
