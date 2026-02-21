@@ -105,7 +105,7 @@ A production Flutter app built with **BLoC + Clean Architecture**, free to use f
 ---
 
 
-### 🟢 [ShitUp](https://github.com/gikwegbu/shiftUp)
+### 🟢 [ShifUp](https://github.com/gikwegbu/shiftUp)
 > *UK Hospitality Shift Management & Scheduling App*
 
 A comprehensive mobile application for the UK hospitality industry that empowers managers to build rosters and staff to manage their working lives — all from a single, beautifully designed app.
