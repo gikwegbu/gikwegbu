@@ -114,7 +114,7 @@ A comprehensive mobile application for the UK hospitality industry that empowers
 
 ---
 
-### 🔴 [NestView](https://github.com/gikwegbu/nestview)
+### 🔴 [NestHaven](https://github.com/gikwegbu/nesthaven)
 > *UK 🇬🇧 Property Search & Mortgage Calculator App*
 
 A premium Flutter mobile application for finding, tracking, and financing UK properties. Built for first-time buyers, renters, and property investors across England, Scotland, and Wales.
