@@ -96,7 +96,7 @@ I believe great mobile engineering isn't just about shipping features — it's a
 ## 🚀 Featured Projects
 
 ### 🔵 [CareSync](https://github.com/gikwegbu/caresync)
-> *CareSync is a comprehensive, UK NHS-inspired personal health and appointment tracker application built with Flutter. It is designed to help users manage their healthcare journey with ease, offering features for tracking appointments, prescriptions, health metrics, and more, all wrapped in a modern, accessible, and polished user interface.*
+> *CareSync is a comprehensive, UK 🇬🇧 NHS-inspired personal health and appointment tracker application built with Flutter. It is designed to help users manage their healthcare journey with ease, offering features for tracking appointments, prescriptions, health metrics, and more, all wrapped in a modern, accessible, and polished user interface.*
 
 A production Flutter app built with **BLoC + Clean Architecture**, free to use for people on iOS and Android. Features real-time data sync, offline-first capabilities, and a custom design system.
 
@@ -105,12 +105,21 @@ A production Flutter app built with **BLoC + Clean Architecture**, free to use f
 ---
 
 
-### 🟢 [ShifUp](https://github.com/gikwegbu/shiftUp)
-> *UK Hospitality Shift Management & Scheduling App*
+### 🟢 [ShiftUp](https://github.com/gikwegbu/shiftUp)
+> *UK 🇬🇧 Hospitality Shift Management & Scheduling App*
 
 A comprehensive mobile application for the UK hospitality industry that empowers managers to build rosters and staff to manage their working lives — all from a single, beautifully designed app.
 
 `Flutter` `MVVM` `Firebase Auth + Firestore + Storage` `Riverpod v2 (StateNotifierProvider)` `GoRouter` `Hive` `FlChart` `Table Calendar` `Google Fonts` `build_runner` `riverpod_generator` 
+
+---
+
+### 🔴 [NestView](https://github.com/gikwegbu/nestview)
+> *UK 🇬🇧 Property Search & Mortgage Calculator App*
+
+A premium Flutter mobile application for finding, tracking, and financing UK properties. Built for first-time buyers, renters, and property investors across England, Scotland, and Wales.
+
+`Flutter` `Riverpod v2 (StateNotifierProvider)` `GoRouter` `Hive` `FlChart` `Table Calendar` `Google Fonts` `build_runner` `riverpod_generator` `Cached Network Image`
 
 ---
 
