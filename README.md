@@ -123,6 +123,15 @@ A premium Flutter mobile application for finding, tracking, and financing UK pro
 
 ---
 
+### ⚪️ [TaxBud](https://github.com/gikwegbu/tax_bud)
+> *Bookkeeping and Making Tax Digital (MTD) mobile app for  sole Uk 🇬🇧 traders, freelancers, and limited company*
+
+A professional, privacy-first mobile application tailored for UK sole traders, freelancers, and limited company directors to easily handle their bookkeeping and Making Tax Digital (MTD) obligations..
+
+`Flutter` `flutter_bloc` `GoRouter` `Google Fonts` `build_runner` `isar` `FlChart` `flutter_secure_storage` `google_mlkit_text_recognition` `google_mlkit_commons`
+
+---
+
 ### 🟣 [George Ikwegbu Mobile](https://github.com/gikwegbu/george_ikwegbu_mobile)
 > *A lightweight Flutter WebView wrapper for the personal portfolio website of George Ikwegbu.*
 
